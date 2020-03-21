@@ -1,0 +1,9 @@
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/utilities/XLUtils.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/testCases/TC_LoginTest_XLS.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/utilities/ReadConfig.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/testCases/TC_AddCustomerTest.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/utilities/Reporting.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/testCases/Base.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/pageObjects/AddCustomerPage.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/pageObjects/loginPage.java
+/home/baudouin/eclipse-workspace/WebTesting_Banking/src/test/java/com/Ebanking/testCases/TC_LoginTest.java
