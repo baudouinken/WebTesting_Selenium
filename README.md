@@ -12,3 +12,6 @@ After each test a report is generated in HTML with the Test result
 
 Builded with:
 - Maven
+
+CI:
+ - Travis-CI was used for pipelines
